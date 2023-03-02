@@ -1,0 +1,4 @@
+[Wed Mar 01 04:37:39.137738 2023] [access_compat:error] [pid 5308:tid 140397531535104] [client 192.168.50.2:43430] AH01797: client denied by server configuration: /var/www/html/servicios.com/
+[Wed Mar 01 04:58:38.076456 2023] [access_compat:error] [pid 5547:tid 140266467923712] [client 192.168.50.2:43434] AH01797: client denied by server configuration: /var/www/html/servicios.com/
+[Wed Mar 01 05:23:16.889320 2023] [access_compat:error] [pid 6075:tid 139655391393536] [client 192.168.50.2:43440] AH01797: client denied by server configuration: /var/www/html/servicios.com/
+[Wed Mar 01 05:34:48.711149 2023] [access_compat:error] [pid 6566:tid 139638018656000] [client 192.168.50.2:43442] AH01797: client denied by server configuration: /var/www/html/servicios.com/
